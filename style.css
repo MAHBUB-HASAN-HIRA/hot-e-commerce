@@ -1,0 +1,96 @@
+.nav-item a{
+    font-weight: bold;
+
+}
+
+p{
+    color: gray;   
+}
+.buy-now-btn{
+    background-color: black;
+    color:white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.container{
+   margin-bottom: 50px;
+
+}
+.smart{
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.smart-phone-section {
+    text-align: center;
+}
+.smartphone{
+   
+}
+
+.card {
+    border: none;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card img {
+    width: 60%;
+    padding-top: 20px;
+   
+}
+
+.laptops h3{
+    margin-bottom: 60px;
+}
+#catagories-bg {
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 70px;
+}
+.categories-border::after {
+    position: absolute;
+    content: " ";
+    height: 7px;
+    width: 70px;
+    background: transparent linear-gradient(142deg, #FF9C35 0%, #FFD019 100%) 0 0 no-repeat padding-box;
+    border-radius: 10px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+
+.catagories-bg {
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-top: 70px;
+   
+}
+
+.image1,
+.image2 {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 20px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.image3{
+    padding: 60px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 20px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.pale{
+    width: 180%;
+
+}
