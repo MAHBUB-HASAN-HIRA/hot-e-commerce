@@ -90,7 +90,31 @@ p{
     border-radius: 5px 5px 20px 5px;
     box-shadow: 5px 5px 10px lightgray;
 }
-.pale{
-    width: 180%;
 
+.pale{
+    width:160%;
+}
+.orange-bg{
+    background-color: #FCEAE8;
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    
 }
