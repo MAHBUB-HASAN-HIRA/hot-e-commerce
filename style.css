@@ -25,9 +25,7 @@ p{
 .smart-phone-section {
     text-align: center;
 }
-.smartphone{
-   
-}
+
 
 .card {
     border: none;
@@ -74,26 +72,14 @@ p{
    
 }
 
-.image1,
-.image2 {
+
+.f_image {
     padding: 40px;
     background-color: white;
-    margin: 10px;
     border-radius: 5px 5px 20px 5px;
     box-shadow: 5px 5px 10px lightgray;
 }
 
-.image3{
-    padding: 60px;
-    background-color: white;
-    margin: 10px;
-    border-radius: 5px 5px 20px 5px;
-    box-shadow: 5px 5px 10px lightgray;
-}
-
-.pale{
-    width:160%;
-}
 .orange-bg{
     background-color: #FCEAE8;
 }
@@ -116,5 +102,5 @@ p{
 }
 footer{
     text-align: center;
-    
+    margin-bottom: 20px;
 }
